@@ -1,0 +1,29 @@
+{
+  "name": "@nodemate/noble",
+  "version": "1.0.0",
+  "description": "Bindings for Noble used for NodeMate",
+  "main": "index.js",
+  "dependencies": {
+    "@nodemate/bridge": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeMate/noble.git"
+  },
+  "keywords": [
+    "NodeMate",
+    "Noble",
+    "BLE",
+    "Bluetooth"
+  ],
+  "author": "Peter Gammelgaard Poulsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NodeMate/noble/issues"
+  },
+  "homepage": "https://github.com/NodeMate/noble#readme"
+}
